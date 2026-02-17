@@ -11,7 +11,9 @@ From the slides, the game includes:
 - Mask-based collision (pixel-perfect)
 
 This code is reconstructed from the project slides PDF and keeps a similar multi-file structure (a `space/` package). fileciteturn1file0
-![Gameplay](images/Space Invaders.png)
+## Gameplay Preview
+
+![Gameplay Screenshot](images/Space%20Invaders.png)
 
 ## Controls
 - Move: **W A S D**
